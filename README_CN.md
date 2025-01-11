@@ -5,6 +5,9 @@
 
 本项目是一个基于 **Vue** 前端 + **Node.js (Express)** 后端 搭建的示例网页，用于生成特定的 **Filament 配置信息**（输出 JSON）
 
+![alt text](image.png)
+
+
 ## 功能概述
 
 1. **颜色 (Color)**

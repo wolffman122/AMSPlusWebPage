@@ -4,6 +4,8 @@
 
 This project is a sample webpage built with **Vue** (front end) + **Node.js (Express)** (back end) that generates a specific **Filament configuration** (output as JSON). 
 
+![alt text](image.png)
+
 ## Features
 
 1. **Color Input**
